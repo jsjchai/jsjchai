@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am jsjchai
+
+![](https://komarev.com/ghpvc/?username=jsjchai)
 
 <!--
 **jsjchai/jsjchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+####  :hammer:  Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjchai&hide=html,css)](https://github.com/jsjchai)
