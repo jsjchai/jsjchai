@@ -7,7 +7,7 @@
 
 ### As for me:
 - 🔭 I’m currently working on Enterprise e-commerce company
-- 🌱 I’m currently learning [`Java`](https://github.com/topics/java) and [`golang`](https://github.com/topics/golang)
+- 🌱 I’m currently learning [`java`](https://github.com/topics/java) and [`golang`](https://github.com/topics/golang)
 - :coffee: Years of Java experience: 4+
 - 📫 How to reach me: jsjchai@google.com
 
