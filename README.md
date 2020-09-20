@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on Enterprise e-commerce company
 - 🌱 I’m currently learning [`java`](https://github.com/topics/java) and [`golang`](https://github.com/topics/golang)
 - :coffee: Years of Java experience: 4+
+- :book: My English is still not very good, but I am trying to improve every day
+- :student: I really enjoy learning more and talking about technologies
 - 📫 How to reach me: jsjchai@google.com
 
 
