@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=jsjchai)
 
+[![jsjchai's github stats](https://github-readme-stats.vercel.app/api?username=jsjchai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jsjchai/jsjchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
