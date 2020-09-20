@@ -12,7 +12,7 @@
 - :book: My English is still not very good, but I am trying to improve every day
 - :student: About me: I really enjoy learning more and talking about technologies
 - 📫 How to reach me: jsjchai@google.com
-- ⚡ I do not know where to go, but I have been on the road.
+- ⚡ I do not know where to go, but I have been on the road
 
 
 
