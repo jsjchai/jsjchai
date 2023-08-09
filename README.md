@@ -9,6 +9,3 @@
 #### Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjchai&hide=html,css)](https://github.com/jsjchai)
-
-#### wakatime
-![jsjchai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsjchai)
