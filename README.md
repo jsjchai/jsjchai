@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jsjchai)
 
-![Jsjchai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjchai&count_private=true)
+![jsjchai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjchai&count_private=true)
 
 
 
