@@ -14,13 +14,15 @@ A passionate developer from China with expertise in Java and Python. I enjoy bui
 
 ## 📊 GitHub Overview
 
-<div align="center">
+### Repository Statistics
+- **Public Repositories**: 20+
+- **Primary Languages**: Java, Python
+- **Latest Activity**: Actively maintaining multiple projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsjchai&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjchai&layout=compact&theme=default&hide_border=true&exclude_repo=jsjchai)
-
-</div>
+### Contribution Highlights
+- Consistent commits across various projects
+- Focus on code quality and documentation
+- Regular updates to learning resources
 
 ## 🛠️ Technical Skills
 
@@ -40,37 +42,57 @@ A passionate developer from China with expertise in Java and Python. I enjoy bui
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ## 🏆 Featured Projects
 
 ### **Core Development**
-- **[advanced-java](https://github.com/jsjchai/advanced-java)** - Advanced Java concepts with practical examples
-- **[algorithms](https://github.com/jsjchai/algorithms)** - Data structures and algorithm implementations
-- **[apache-calcite-example](https://github.com/jsjchai/apache-calcite-example)** - SQL parser and optimizer examples
+- **[advanced-java](https://github.com/jsjchai/advanced-java)** - Advanced Java concepts with practical examples including concurrency, JVM optimization, and design patterns
+- **[algorithms](https://github.com/jsjchai/algorithms)** - Comprehensive collection of data structures and algorithm implementations with detailed explanations
+- **[apache-calcite-example](https://github.com/jsjchai/apache-calcite-example)** - Examples and tutorials for Apache Calcite SQL parser and query optimizer
 
 ### **Learning & Resources**
-- **[study-notes](https://github.com/jsjchai/study-notes)** - Comprehensive technical study notes
-- **[interview](https://github.com/jsjchai/interview)** - Interview preparation materials and solutions
-- **[everyone-can-use-english](https://github.com/jsjchai/everyone-can-use-english)** - English learning resources
+- **[study-notes](https://github.com/jsjchai/study-notes)** - Organized technical study notes covering system design, databases, and programming concepts
+- **[interview](https://github.com/jsjchai/interview)** - Curated interview preparation materials with solutions and explanations
+- **[everyone-can-use-english](https://github.com/jsjchai/everyone-can-use-english)** - Practical English learning resources for developers
 
 ### **Tools & Utilities**
-- **[styleguide](https://github.com/jsjchai/styleguide)** - Code style guidelines and best practices
-- **[arthas](https://github.com/jsjchai/arthas)** - Java diagnostic tool examples and usage
+- **[styleguide](https://github.com/jsjchai/styleguide)** - Code style guidelines and best practices for consistent development
+- **[arthas](https://github.com/jsjchai/arthas)** - Examples and usage patterns for Alibaba's Java diagnostic tool
 
-## 📈 GitHub Activity
+## 📈 Development Philosophy
 
-I'm actively maintaining and contributing to my repositories. Check out my [GitHub contribution graph](https://github.com/jsjchai) for recent activity.
+- **Code Quality**: Prioritize readability, maintainability, and test coverage
+- **Continuous Learning**: Regularly update skills and explore new technologies
+- **Open Source**: Believe in sharing knowledge and collaborating with the community
+- **Problem Solving**: Focus on practical solutions that address real-world challenges
 
 ## 📫 Get in Touch
 
 - **GitHub**: [@jsjchai](https://github.com/jsjchai)
 - **Email**: jsjchai@163.com
 
-Feel free to explore my repositories, open issues for questions, or start discussions about collaboration opportunities.
+**Interested in collaboration?** Feel free to:
+- Explore my repositories and open issues for questions
+- Fork projects that interest you
+- Start discussions about potential collaborations
+- Share feedback or suggestions
 
 ---
 
-*"Clean code is not written by following rules. You learn to write clean code by writing lots of code and noticing what works and what doesn't."*  
-*— Robert C. Martin*
+### 📚 Currently Exploring
+- Microservices architecture patterns
+- Cloud-native application development
+- Performance optimization techniques
+- DevOps practices and automation
 
-*Profile last updated: March 2026*
+### 🎯 2026 Goals
+- Contribute to more open-source projects
+- Deepen expertise in distributed systems
+- Share knowledge through technical writing
+- Build more practical tools for developers
+
+*"The only way to go fast is to go well."*  
+*— Robert C. Martin, Clean Code*
+
+*Profile updated: March 2026*
