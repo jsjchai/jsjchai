@@ -1,98 +1,33 @@
 # 👋 Hi, I'm jsjchai
 
-![Profile Views](https://komarev.com/ghpvc/?username=jsjchai&color=blue&style=flat)
+## About
 
-## 🚀 About Me
+Software developer focused on backend systems and clean code. Passionate about solving technical challenges and continuous learning.
 
-A passionate developer from China with expertise in Java and Python. I enjoy building scalable systems and solving complex problems.
+## Skills
 
-- 🔭 **Currently working on**: Java microservices and Python data pipelines
-- 🌱 **Learning**: Cloud-native technologies and system design patterns
-- 💼 **Expertise**: Backend development, algorithms, distributed systems
-- 🎯 **Focus**: Clean code, performance optimization, and best practices
-- ⚡ **Beyond code**: Reading tech blogs, contributing to open source
-
-## 📊 GitHub Overview
-
-### Repository Statistics
-- **Public Repositories**: 20+
-- **Primary Languages**: Java, Python
-- **Latest Activity**: Actively maintaining multiple projects
-
-### Contribution Highlights
-- Consistent commits across various projects
-- Focus on code quality and documentation
-- Regular updates to learning resources
-
-## 🛠️ Technical Skills
-
-### **Programming Languages**
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### **Frameworks & Libraries**
+### Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
-## 🏆 Featured Projects
+## Focus Areas
 
-### **Core Development**
-- **[advanced-java](https://github.com/jsjchai/advanced-java)** - Advanced Java concepts with practical examples including concurrency, JVM optimization, and design patterns
-- **[algorithms](https://github.com/jsjchai/algorithms)** - Comprehensive collection of data structures and algorithm implementations with detailed explanations
-- **[apache-calcite-example](https://github.com/jsjchai/apache-calcite-example)** - Examples and tutorials for Apache Calcite SQL parser and query optimizer
+- Backend architecture and microservices
+- System design and scalability
+- Code quality and best practices
+- Algorithm optimization
 
-### **Learning & Resources**
-- **[study-notes](https://github.com/jsjchai/study-notes)** - Organized technical study notes covering system design, databases, and programming concepts
-- **[interview](https://github.com/jsjchai/interview)** - Curated interview preparation materials with solutions and explanations
-- **[everyone-can-use-english](https://github.com/jsjchai/everyone-can-use-english)** - Practical English learning resources for developers
+## Connect
 
-### **Tools & Utilities**
-- **[styleguide](https://github.com/jsjchai/styleguide)** - Code style guidelines and best practices for consistent development
-- **[arthas](https://github.com/jsjchai/arthas)** - Examples and usage patterns for Alibaba's Java diagnostic tool
-
-## 📈 Development Philosophy
-
-- **Code Quality**: Prioritize readability, maintainability, and test coverage
-- **Continuous Learning**: Regularly update skills and explore new technologies
-- **Open Source**: Believe in sharing knowledge and collaborating with the community
-- **Problem Solving**: Focus on practical solutions that address real-world challenges
-
-## 📫 Get in Touch
-
-- **GitHub**: [@jsjchai](https://github.com/jsjchai)
-- **Email**: jsjchai@163.com
-
-**Interested in collaboration?** Feel free to:
-- Explore my repositories and open issues for questions
-- Fork projects that interest you
-- Start discussions about potential collaborations
-- Share feedback or suggestions
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jsjchai)
 
 ---
 
-### 📚 Currently Exploring
-- Microservices architecture patterns
-- Cloud-native application development
-- Performance optimization techniques
-- DevOps practices and automation
-
-### 🎯 2026 Goals
-- Contribute to more open-source projects
-- Deepen expertise in distributed systems
-- Share knowledge through technical writing
-- Build more practical tools for developers
-
-*"The only way to go fast is to go well."*  
-*— Robert C. Martin, Clean Code*
-
-*Profile updated: March 2026*
+*Simplicity is the ultimate sophistication.*
