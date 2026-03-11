@@ -1,18 +1,23 @@
-# Welcome to My GitHub
+# Hello World 👋
 
-### Building Quality Software
-
----
-
-## 🛠️ Tech Stack
-
-| | |
-|---|---|
-| **Languages** | Java · Python · Go · JavaScript |
-| **Backend** | Spring Boot · FastAPI · Node.js |
-| **Cloud** | AWS · Docker · Kubernetes |
-| **Databases** | PostgreSQL · MySQL · Redis |
+I'm a software engineer focused on backend development and distributed systems.
 
 ---
 
-*Last Updated: 2026-03*
+**Tech Stack**
+
+```
+Languages     → Java    Python    Go    TypeScript
+Backend       → Spring Boot    FastAPI    Node.js
+Infrastructure→ Docker    Kubernetes    AWS
+Databases     → PostgreSQL    MySQL    Redis
+```
+
+---
+
+**Currently Learning**
+- AI/ML Engineering
+- System Design
+
+---
+*Last updated: 2026-03*
